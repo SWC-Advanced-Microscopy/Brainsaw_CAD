@@ -1,4 +1,4 @@
-# Brainsaw_CAD
+# Brainsaw CAD
 CAD models for key BrainSaw parts.
 For more details see the [BrainSaw project site](https://brainsaw.org).
 
